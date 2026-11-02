@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   if (!window.ConsoleLogged) {
     console.log(
-      `%\u004C\u0075\u006E\u0061\u0061\u0072%c v7 - main.js Loaded`,
+      `%cNook%c v8 - main.js Loaded`,
       "font-size: 16px; background-color: #9282fb; border-top-left-radius: 5px; border-bottom-left-radius: 5px; padding: 4px; font-weight: bold;",
       "font-size: 16px; background-color: #090810; font-weight: bold; padding: 4px; border-top-right-radius: 5px; border-bottom-right-radius: 5px;",
     );
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
         `;
 
     console.log(
-      `%c${ascii}\ndiscord.gg/En5YJYWj3Z`,
+      `%c${ascii}\ndiscord.gg/nook`,
       "font-size: 24px; display: block; white-space: pre; text-align: center;",
     );
 
@@ -151,7 +151,7 @@ document.addEventListener("DOMContentLoaded", () => {
     window.localStorage.getItem("v7toast") === "true"
   ) {
     const randomMessages = [
-      "Did you know? \u004C\u0075\u006E\u0061\u0061\u0072 V7 is awesome!",
+      "Did you know? Nook V8 is awesome!",
       "Luna AI is Amazing. you should try it out!",
       "350+ games and counting!",
       "350+ games and counting!",
@@ -167,8 +167,8 @@ document.addEventListener("DOMContentLoaded", () => {
       "https://discord.gg/En5YJYWj3Z",
       "Have a Windows PC? Check out Sparkle! at getsparkle.net",
       "Join our discord for support and updates! discord.gg/En5YJYWj3Z",
-      "Welcome Back to \u004C\u0075\u006E\u0061\u0061\u0072!",
-      "Welcome Back to \u004C\u0075\u006E\u0061\u0061\u0072!",
+      "Welcome Back to Nook!",
+      "Welcome Back to Nook!",
       "Tip: You can disable tips in settings (but dont be mean keep them on :3)",
     ];
 
@@ -196,7 +196,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   if (localStorage.getItem("v7toast") !== "true") {
     Toastify({
-      text: `Welcome To \u004C\u0075\u006E\u0061\u0061\u0072 V7`,
+      text: `Welcome To Nook V8`,
       duration: 5000,
       gravity: "bottom",
       position: "right",
@@ -266,18 +266,17 @@ document.addEventListener("DOMContentLoaded", () => {
   // Announcements modal
   const currentAnnouncement = `
 <div>
-<h2>(BIG UPDATE) Whats New:</h2>
+<h2>(BIG UPDATE) Whats New in Nook V8:</h2>
   <ul style="list-style-position: inside; text-align: center;">
-    <li>ADDED 613 GXMES!</li>
-    <li>Added More page</li>
-    <li>Reverted Scramjet as default</li>
-    <li>Added Animation to gxmes/apps page</li>
+    <li>Rebranded to Nook with a modern UI</li>
+    <li>New Nook brand theme and logo</li>
+    <li>Modernized navbar, cards and typography</li>
     <li>Performance Improvements</li>
     <li>Updated AI Page</li>
     <li>Added More AI Models</li>
     <li>Added blob cloak</li>
   </ul>
-  <a>Join the Discord: &#x68;&#x74;&#x74;&#x70;&#x73;&#x3a;&#x2f;&#x2f;&#x64;&#x73;&#x63;&#x2e;&#x67;&#x67;&#x2f;&#x70;&#x61;&#x72;&#x63;&#x6f;&#x69;&#x6c;</a>
+  <a>Join the Discord: https://discord.gg/nook</a>
 </div>`;
   const lastAnnouncement = localStorage.getItem("lastAnnouncement");
 
@@ -297,8 +296,8 @@ document.addEventListener("DOMContentLoaded", () => {
 const cloaks = [
   {
     name: "default",
-    icon: "./media/logo.svg",
-    title: "&#x4C;&#x75;&#x6E;&#x61;&#x61;&#x72;",
+    icon: "./media/nook-logo.png",
+    title: "Nook",
   },
   {
     name: "drive",
@@ -357,7 +356,7 @@ const cloaks = [
   },
   {
     name: "blob",
-    icon: "./media/logo.svg",
+    icon: "./media/nook-logo.png",
     title: "Blob",
   },
 ];

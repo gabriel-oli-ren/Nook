@@ -1,7 +1,7 @@
 {
-  "name": "lunaar.org",
-  "version": "7.6.1",
-  "description": "The Future of Unblocked Gaming!",
+  "name": "nook",
+  "version": "8.0.0",
+  "description": "The Future of Nook! - Modern unblocked portal",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
     "format": "prettier --write .",
     "dev": "nodemon index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nook", "unblocked", "proxy", "games"],
+  "author": "Nook",
   "license": "ISC",
   "packageManager": "pnpm@10.12.1",
   "dependencies": {

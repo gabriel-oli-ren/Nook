@@ -6,42 +6,42 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://lunaar.org/</loc>
+  <loc>https://nook.app/</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/ai</loc>
+  <loc>https://nook.app/ai</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/forum</loc>
+  <loc>https://nook.app/forum</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/go</loc>
+  <loc>https://nook.app/go</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/math</loc>
+  <loc>https://nook.app/math</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/more</loc>
+  <loc>https://nook.app/more</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/science</loc>
+  <loc>https://nook.app/science</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://lunaar.org/settings</loc>
+  <loc>https://nook.app/settings</loc>
   <lastmod>2025-11-21T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>

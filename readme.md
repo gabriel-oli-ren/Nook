@@ -1,21 +1,21 @@
 <div align=center>
 
-<img src="./public/media/logo.svg" height="60px">
-<h1>Lunaar V7</h1>
-<h4 align="center">the best unblocked proxy.</h4>
+<img src="./public/media/nook-logo.png" height="60px">
+<h1>Nook V8</h1>
+<h4 align="center">the modern unblocked portal.</h4>
 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 </div>
 
-![Lunaar image](https://api.microlink.io/?url=https%3A%2F%2Flunaar.org&screenshot=true&embed=screenshot.url)
+![Nook image](https://api.microlink.io/?url=https%3A%2F%2Fnook.app&screenshot=true&embed=screenshot.url)
 
 > [!IMPORTANT]
-> If you fork Lunaar, please give it a star.
+> If you fork Nook, please give it a star.
 
-Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
+Join our [Discord Server](https://discord.gg/nook) for links and more!
 
-## V7 Features
+## V8 Features
 
 - Modern UI
 - Fast Built-in Proxy
@@ -23,26 +23,26 @@ Join our [Discord Server](https://dsc.gg/parcoil) for links and more!
 - Theme Support
 - AI Chatbot
 - Inspect element
-- Tab cloaker [(Using cloakjs)](https://github.com/Parcoil/cloak)
+- Tab cloaker [(Using cloakjs)](https://github.com/nook/cloak)
 - Panic Key
 - And much more!
 
 ## Demo
 
-[lunaar.org](https://lunaar.org) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[nook.app](https://nook.app) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/1dh3v.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
-[Lunaar Docs](https://docs.lunaar.org)
+[Nook Docs](https://docs.nook.app)
 
 ## Deployment
 
 > [!IMPORTANT]
-> You cannot deploy Lunaar to a static host, such as GitHub Pages or Cloudflare Pages.
+> You cannot deploy Nook to a static host, such as GitHub Pages or Cloudflare Pages.
 
-## Deploying your own version of lunaar
+## Deploying your own version of nook
 
-[Click here to host lunaar](https://github.com/parcoil/lunaar-deploy)
+[Click here to host nook](https://github.com/nook/nook-deploy)
 
-# 🤖 Luna AI
+# 🤖 Nook AI
 
 ### 1. Get a Groq API Key
 
@@ -63,5 +63,4 @@ GROQ_API_KEY=your_actual_groq_api_key_here
 ## Issues
 
 > [!NOTE]
-> If you encounter issues, create an [issue on GitHub](https://github.com/parcoil/lunaar.org/issues/new) or join the [Discord Server](https://dsc.gg/parcoil).
-> we like audis and they are better tha all the german auto makers, including the ones in VW audi group.
+> If you encounter issues, create an [issue on GitHub](https://github.com/nook/nook/issues/new) or join the [Discord Server](https://discord.gg/nook).

@@ -10,21 +10,43 @@
 }
 
 :root {
-  --primary-color: #9282fb;
-  --secondary-color: #613367;
-  --accent-color: #b263a6;
-  --bg-2-color: #171527;
-  --bg-color: #090810;
-  --text-color: #e5e4f2;
-  --text-secondary-color: #b0b0b0;
-  --text-placeholder-color: #6c6c6c;
-  --border-color: #2c2c3f;
+  --primary-color: #6366f1;
+  --secondary-color: #4f46e5;
+  --accent-color: #a78bfa;
+  --bg-2-color: #18181b;
+  --bg-color: #0f0f17;
+  --text-color: #fafafa;
+  --text-secondary-color: #a1a1aa;
+  --text-placeholder-color: #71717a;
+  --border-color: #27272a;
   --font-family: "Poppins", sans-serif;
   --font-size: 16px;
-  --border-radius: 12px;
-  /* --blob-1: var(--primary-color);
+  --border-radius: 14px;
+  --blob-1: var(--primary-color);
   --blob-2: var(--accent-color);
-  --blob-3: var(--secondary-color); */
+  --blob-3: var(--secondary-color);
+}
+
+/* Nook Brand Theme */
+body[theme="nook"] {
+  --primary-color: #6366f1;
+  --secondary-color: #4f46e5;
+  --accent-color: #a78bfa;
+  --bg-2-color: #18181b;
+  --bg-color: #0f0f17;
+  --text-color: #fafafa;
+  --text-secondary-color: #a1a1aa;
+  --text-placeholder-color: #71717a;
+  --border-color: #27272a;
+  --border-radius: 16px;
+  background: linear-gradient(135deg, #0f0f17 0%, #18181b 60%, #232330 100%);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  --blob-1: #6366f1;
+  --blob-2: #4f46e5;
+  --blob-3: #a78bfa;
 }
 
 /* Light Theme */

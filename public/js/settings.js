@@ -340,7 +340,7 @@ function downloadBrowserBackup() {
 
   const link = document.createElement("a");
   link.href = url;
-  link.download = "backup.luna";
+  link.download = "backup.nook";
   link.click();
 
   URL.revokeObjectURL(url);
